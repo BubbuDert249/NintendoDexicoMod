@@ -1,0 +1,10 @@
+HBC-BG {
+  background-color: hsla(18, 100%, 59%, 0.10);
+}
+
+HBC-BGdarkness {
+  background-color: hsla(0, 0%, 0%, 1.9);
+}
+HBC-Bubble {
+  background-image: ('dexico://hbc.wii/bubble.png');
+}
