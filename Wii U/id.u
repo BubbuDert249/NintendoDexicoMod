@@ -1,0 +1,4 @@
+settings {
+  wiiu.id=dex-{random}
+}
+set(random) to ai.generatedNumber
