@@ -1,0 +1,6 @@
+filefor=Wii 
+sys.Language.custom()
+  name=[detectorA]
+  detectorA=detectCountry then.save
+end()
+return Wii;
