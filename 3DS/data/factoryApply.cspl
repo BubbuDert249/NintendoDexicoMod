@@ -1,0 +1,5 @@
+filefor=3DS
+createVariable(factoryApply)
+  changeAll.= (.dec) to (.bin) grantSysAccess(encodeFrom.decimal to binary)
+end()
+return 3DS;
