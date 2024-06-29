@@ -1,0 +1,5 @@
+filefor=Wii
+detect=boot.elf(hexadecimal) wordHex=region then
+  sys.RegionType=unchangable
+end()
+return Wii;
