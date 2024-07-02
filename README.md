@@ -5,5 +5,6 @@
   REQUIRING: Console, 10GB (or more) SD/SDHC or USB 5GB, Homebrew Channel/Launcher
   <hr>
   <h1>EMULATOR:</h1> <br>
-  
-  
+  Dolphin: Find 'WiiSD.raw' and drag the 'boot.elf' to the 'WiiSD.raw' and load the Wii <br>
+  Cemu: Add 'boot.elf' inside a folder and put the folder to the game paths <br>
+  Citra: Drag and drop the 'dexico_installer.elf' <br>
