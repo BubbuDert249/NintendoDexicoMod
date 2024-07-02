@@ -8,3 +8,4 @@
   Dolphin: Find 'WiiSD.raw' and drag the 'boot.elf' to the 'WiiSD.raw' and load the Wii <br>
   Cemu: Add 'boot.elf' inside a folder and put the folder to the game paths <br>
   Citra: Drag and drop the 'dexico_installer.elf' <br>
+  Ryujinx: Click install firmware from directory and upload the 'Switch' folder <br>
